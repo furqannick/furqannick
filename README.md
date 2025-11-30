@@ -75,3 +75,37 @@ Feel free to contact me — I’m open to freelance, project-based, or long-term
 ---
 
 _Last updated: November 2025_
+
+
+<!-- header image -->
+<p align="center">
+  <img src="./header.png" alt="Profile banner" style="width:100%; max-height:360px; object-fit:cover; border-radius:8px;">
+</p>
+
+# Furqan — Advanced Full-Stack Developer & Web Solutions Architect
+
+I design and build premium, high-performance web applications combining modern UI, robust backend architecture and reliable deployment pipelines. This profile updates automatically with live metrics.
+
+---
+
+## About
+- Full-stack development (React / Next.js / Node.js)
+- Animations & 3D (GSAP, Three.js, SVG)
+- Backend, API design and deployment (Express, Firebase, Docker, GitHub Actions)
+- E-commerce and CMS: Shopify (Liquid) and WordPress
+
+---
+
+## Live Profile Metrics
+The visual dashboard below is auto-generated and updated by a scheduled GitHub Action.
+
+![GitHub Metrics](./github-metrics.svg)
+
+---
+
+## Contact
+- Email: your-email@example.com  
+- Portfolio: https://your-portfolio-link.com  
+- LinkedIn: https://www.linkedin.com/in/your-linkedin
+
+_Last updated: _(auto)_
