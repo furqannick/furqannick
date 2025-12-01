@@ -76,21 +76,16 @@ Feel free to contact me — I’m open to freelance, project-based, or long-term
 
 ## About Us
 
+<div align="center">
+  <!-- Replace with your image URLs -->
+  <img src="https://github.com/furqannick/furqannick/blob/main/myteam.png" width="48%" style="margin-right:2%;" />
+</div>
+
 I’m **Furqan**, and together with my dedicated team of four highly skilled professionals, we work collaboratively to engineer high-performance digital solutions with precision and innovation. Our team’s strength lies in our diverse expertise and shared commitment to excellence. Each project we undertake is approached with a combination of strategic thinking, technical mastery, and deep attention to detail.
 
 We believe in delivering results that are not only functional but outstanding. Our work is driven by persistence, discipline, and the collective hard work of our team. We specialize in full-stack development, automation systems, UI/UX execution, and performance-focused digital marketing. Every solution we create is designed to be scalable, efficient, and aligned with business growth objectives.
 
 Over the years, we’ve learned that exceptional outcomes are never by chance — they are built through continuous improvement, teamwork, and a clear vision from start to finish. Whether working on advanced web platforms, automated digital systems, or high-conversion marketing strategies, our goal remains the same: to deliver professional-grade solutions that elevate brands and create meaningful impact.
-
----
-
-### Team Profile Showcase
-
-<div align="center">
-  <!-- Replace with your image URLs -->
-  <img src="IMAGE_URL_1" width="48%" style="margin-right:2%;" />
-  <img src="IMAGE_URL_2" width="48%" />
-</div>
 
 ---
 
@@ -108,9 +103,6 @@ Our strengths include:
 
 Our team operates with a mindset that every project is a reflection of our capability. We aim to build long-term partnerships with clients who value innovation, functionality, and executional excellence.
 
----
-
-### Team Working in Action
 
 <div align="center">
   <!-- Replace with your image URLs -->
