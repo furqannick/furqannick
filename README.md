@@ -1,5 +1,5 @@
 <!-- Header / Banner image -->
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/header.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;">
+<img src="https://github.com/furqannick/furqannick/blob/main/banner.png?raw=true" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;">
 
 # Advanced Full-Stack Developer & Web Solutions Architect
 
@@ -66,46 +66,75 @@ I build modern, scalable, high-performance web applications and digital products
 
 If you are looking for a **reliable, professional developer** to craft modern web applications, integrate backend systems, deploy scalable infrastructure, or build custom solutions — I’m ready to collaborate.
 
-- **Email:** your-email@example.com  
-- **Portfolio:** https://your-portfolio-link.com  
-- **Website:** https://yourwebsite.com  
+- **Email:** info.mfa1361@gmail.com
+- **Whatsapp:** +923246077788 
+- **Portfolio:** https://marklan.web.app  
 
 Feel free to contact me — I’m open to freelance, project-based, or long-term opportunities.
 
 ---
 
+## About Us
+
+I’m **Furqan**, and together with my dedicated team of four highly skilled professionals, we work collaboratively to engineer high-performance digital solutions with precision and innovation. Our team’s strength lies in our diverse expertise and shared commitment to excellence. Each project we undertake is approached with a combination of strategic thinking, technical mastery, and deep attention to detail.
+
+We believe in delivering results that are not only functional but outstanding. Our work is driven by persistence, discipline, and the collective hard work of our team. We specialize in full-stack development, automation systems, UI/UX execution, and performance-focused digital marketing. Every solution we create is designed to be scalable, efficient, and aligned with business growth objectives.
+
+Over the years, we’ve learned that exceptional outcomes are never by chance — they are built through continuous improvement, teamwork, and a clear vision from start to finish. Whether working on advanced web platforms, automated digital systems, or high-conversion marketing strategies, our goal remains the same: to deliver professional-grade solutions that elevate brands and create meaningful impact.
+
+---
+
+### Team Profile Showcase
+
+<div align="center">
+  <!-- Replace with your image URLs -->
+  <img src="IMAGE_URL_1" width="48%" style="margin-right:2%;" />
+  <img src="IMAGE_URL_2" width="48%" />
+</div>
+
+---
+
+### Our Approach
+
+We combine modern engineering standards with strategic execution. From concept development to final deployment, our process is designed to deliver consistent quality and measurable results. We integrate technical expertise with analytical decision-making to create solutions that perform reliably in real-world environments.
+
+Our strengths include:
+
+- Full-stack web development and application architecture  
+- AI-based automation and workflow systems  
+- Strategic performance-driven digital marketing  
+- Conversion-focused UI/UX implementation  
+- Scalable infrastructure and deployment pipelines  
+
+Our team operates with a mindset that every project is a reflection of our capability. We aim to build long-term partnerships with clients who value innovation, functionality, and executional excellence.
+
+---
+
+### Team Working in Action
+
+<div align="center">
+  <!-- Replace with your image URLs -->
+  <img src="IMAGE_URL_3" width="48%" style="margin-right:2%;" />
+  <img src="IMAGE_URL_4" width="48%" />
+</div>
+
+---
+
+### Our Philosophy
+
+Great digital experiences are crafted, not assembled. We focus on creating platforms that do more than just operate — they accelerate growth, improve efficiency, and establish a strong foundation for scalability. Our approach is defined by hard work, professional standards, and strategic clarity.
+
+If you are looking for a trusted development and digital innovation team that combines expertise with commitment, we are prepared to build your next high-value digital solution.
+
+---
+
+### Project Collaboration
+
+We are open to premium development engagements, long-term strategic collaborations, and performance-oriented digital transformation projects.
+
+For inquiries or partnership opportunities, feel free to reach out.  
+We build with intention. We deliver with consistency. And we grow through innovation.
+
+
 _Last updated: November 2025_
 
-
-<!-- header image -->
-<p align="center">
-  <img src="./header.png" alt="Profile banner" style="width:100%; max-height:360px; object-fit:cover; border-radius:8px;">
-</p>
-
-# Furqan — Advanced Full-Stack Developer & Web Solutions Architect
-
-I design and build premium, high-performance web applications combining modern UI, robust backend architecture and reliable deployment pipelines. This profile updates automatically with live metrics.
-
----
-
-## About
-- Full-stack development (React / Next.js / Node.js)
-- Animations & 3D (GSAP, Three.js, SVG)
-- Backend, API design and deployment (Express, Firebase, Docker, GitHub Actions)
-- E-commerce and CMS: Shopify (Liquid) and WordPress
-
----
-
-## Live Profile Metrics
-The visual dashboard below is auto-generated and updated by a scheduled GitHub Action.
-
-![GitHub Metrics](./github-metrics.svg)
-
----
-
-## Contact
-- Email: your-email@example.com  
-- Portfolio: https://your-portfolio-link.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-
-_Last updated: _(auto)_
